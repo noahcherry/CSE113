@@ -1,0 +1,8 @@
+Script started on Mon 02 Mar 2015 08:57:00 PM MST
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ gcc lab4_q2.c
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ ./a.out
+RED is 18, ORANGE is 19, YELLOW is 5, GREEN is 6 BLUE is 7, INDIGO is 14, VIOLET is 15
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ sc[K[Kexit
+exit
+
+Script done on Mon 02 Mar 2015 09:07:20 PM MST

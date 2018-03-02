@@ -1,0 +1,6 @@
+        A structure can bind together loosely-related variables. 
+This is better to keep related but heterogeneous information together. 
+Examples might be medical data like height, age, and weight.
+        arrays can keep large amounts of data that can be iterated through. 
+This is useful for statistics. Keeping things together like speed measurements can be useful here for easily finding averages.
+        In short, structures are for heterogeneous data, arrays are for homogenous data.

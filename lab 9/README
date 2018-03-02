@@ -1,0 +1,66 @@
+PSEUDO CODE:
+        create_node(nodename) {
+                malloc -> nodename
+                nodename->data = NULL
+                nodename->next = NULL
+        }
+
+        print_node(node) {
+                print(node->data, node->next) 
+        }
+
+        insert_head(node, head) {
+                node->next = head
+                head -> node
+                return head
+        }
+
+        insert_middle(node, head, index) {
+                while(i < index)
+                        head = head->next
+
+                node->next = head->next
+                head->next = node
+        }
+
+        insert_tail(node, head) {
+                while(head->next != NULL)
+                        head = head->next
+
+                head->next = node
+        }
+
+        print_list(head) {
+                while head != NULL
+                        print( data, &node, &node->next)
+                        node = node->next
+        }
+
+        delete_value(value, head, tail) {
+                position = head
+                while position->next != NULL
+                        if position->data = value
+                                delete_node(position,tail)
+                        position = position->next
+                return head
+        }
+
+    delete_node(node, tail) {
+        free( node )
+        while I <= tail->position
+            if Inode->next == node
+                Inode->next == node->next
+    }
+
+    delete_list(head, tail, position) {
+        while position->next != NULL
+            if position->next = tail
+                free tail
+                tail = position
+                position = head
+                delete_list(head, tail, position)
+            
+            position = position->next
+            count++
+        return head
+    }

@@ -1,0 +1,27 @@
+Script started on Mon 02 Mar 2015 09:07:29 PM MST
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ gcc lab4_q3.c
+/tmp/ccKRqiox.o: In function `euclid':
+lab4_q3.c:(.text+0xea): undefined reference to `pow'
+lab4_q3.c:(.text+0x107): undefined reference to `pow'
+lab4_q3.c:(.text+0x112): undefined reference to `sqrt'
+collect2: error: ld returned 1 exit status
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ gcc lab4_q3.c -lm
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ ./a.out
+enter first point : x y
+1 1
+enter second point : x y
+2 2
+euclidian: 1.414214
+manhattan: 2.000000
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ ./a.out
+enter first point : x y
+1 1
+enter second point : x y
+3 
+3
+euclidian: 2.828427
+manhattan: 4.000000
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ exit
+exit
+
+Script done on Mon 02 Mar 2015 09:08:28 PM MST

@@ -1,0 +1,46 @@
+Script started on Mon 09 Feb 2015 10:39:52 AM MST
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab1noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab1$ gcc lab1.c -lm
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab1noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab1$ ./a.out
+1. Rectangle Calculations
+2. Circle Calculations
+3. Triangle Calculations
+4. Regular Polygon Calculations
+1
+The height of your rectangle is...2
+and width...3
+The area is 6
+The perimeter is 10
+The diagonal of this is 3.605551
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab1noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab1$ ./a.out
+1. Rectangle Calculations
+2. Circle Calculations
+3. Triangle Calculations
+4. Regular Polygon Calculations
+2
+The radius of your circle is...2
+The area is 12.566372
+The circumference is 12.566372
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab1noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab1$ ./a.out
+1. Rectangle Calculations
+2. Circle Calculations
+3. Triangle Calculations
+4. Regular Polygon Calculations
+3
+The height of your triangle is...1
+and base...1
+The area is 0.500000
+The perimeter is 3.414214
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab1noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab1$ ./a.out
+1. Rectangle Calculations
+2. Circle Calculations
+3. Triangle Calculations
+4. Regular Polygon Calculations
+4
+The number of sides your shape has...8
+The length of your shapes sides...5
+The exterior angle is 45.000000
+The interior angle is 135.000000
+The sume of the interior angles is 1080.000000
+The area is 120.710663
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab1noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab1$ exit
+Script done on Mon 09 Feb 2015 10:41:03 AM MST

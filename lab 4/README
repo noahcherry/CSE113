@@ -1,0 +1,19 @@
+Noah Cherry
+2015
+Lab 4
+
+Purpose: To bend the arrays and structures to our malevolent will
+
+Pseudo-Code:
+
+Conclusions:
+a) What I learned form this lab:
+        for loops and arrays are complimentary.
+
+b)Issues and how I fixed them:
+        forgetting vector.h in multiple files leads to problems. 
+        the array reverse was frustrating as I used the size variable to swap and couldn't propperly print the array after the swapping
+
+c)Improvements to be made
+        in vector.c, eigth_problem() only generates an array of size 10.
+        utilize the year element in the zodiac problem. 

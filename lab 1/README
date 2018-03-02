@@ -1,0 +1,19 @@
+Noah Cherry
+2014
+
+Purpose: To better understand and utilize user input.
+
+Pseudo-Code:
+
+Conclusions:
+a) What I learned form this lab:
+	printf has like a billion type tokens and %g is far superior to %f when OCD is involved.
+	Also I can find the area of a polygon now.
+
+b)Issues and how I fixed them:
+	
+
+c)Improvements to be made
+	the function hypotenuse() is redundant sine diagonal_rectangle() does the same thing.
+
+

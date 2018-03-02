@@ -1,0 +1,204 @@
+Script started on Tue 04 Feb 2014 04:40:58 PM MST
+[?1034hbash-4.2$ exit./lab2.cgcc -Wall source_lab2.c -lm -o lab2.c
+bash-4.2$ gcc -Wall source_lab2.c -lm -o lab2.c[C[C[C[C[C[C[C[C[C[Cexit[K./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): c
+A. Area of a circle
+C. Circumference of a circle
+let's not beat aROUND the bush (A, C): a
+The radius of your circle is...2
+The area is 12.566372
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): c
+A. Area of a circle
+C. Circumference of a circle
+let's not beat aROUND the bush (A, C): c
+The radius of your circle is...dogs
+Your circle doesn't exist. Directed by M. Night Shyamalan.
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): c
+A. Area of a circle
+C. Circumference of a circle
+let's not beat aROUND the bush (A, C): c
+The radius of your circle is...5
+The circumference is 31.415930
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): p
+A. Area of a regular polygon
+E. Exterior angle of a regular polygon
+I. Interior angle of a regular polygon
+60 percent of vowels approve of this choice(A, E, I): a
+The number of sides your shape has...0
+division by zero.
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): p
+A. Area of a regular polygon
+E. Exterior angle of a regular polygon
+I. Interior angle of a regular polygon
+60 percent of vowels approve of this choice(A, E, I): a
+The number of sides your shape has...3
+The length of your shapes sides...2
+The area is 1.732050
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): p
+A. Area of a regular polygon
+E. Exterior angle of a regular polygon
+I. Interior angle of a regular polygon
+60 percent of vowels approve of this choice(A, E, I): e
+The number of sides your shape has...5
+The exterior angle is 72.000000
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): p
+A. Area of a regular polygon
+E. Exterior angle of a regular polygon
+I. Interior angle of a regular polygon
+60 percent of vowels approve of this choice(A, E, I): i
+The number of sides your shape has...0
+division by zero.
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): r
+A. Area of a rectangle
+D. Diagonal of a regtangle
+P. Perimeter of a rectangle
+OI! PICK A LETUR YA FILTHY GIT! (A, D, P): a
+The height of your rectangle is...0
+Your triangle doesn't exist. Directed by M. Night Shyamalan.
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): r
+A. Area of a rectangle
+D. Diagonal of a regtangle
+P. Perimeter of a rectangle
+OI! PICK A LETUR YA FILTHY GIT! (A, D, P): a
+The height of your rectangle is...5
+and width...5
+The area is 25
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): r
+A. Area of a rectangle
+D. Diagonal of a regtangle
+P. Perimeter of a rectangle
+OI! PICK A LETUR YA FILTHY GIT! (A, D, P): d
+The height of your rectangle is...9
+and width...0
+Your rectangle doesn't exist. Directed by M. Night Shyamalan.
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): r
+A. Area of a rectangle
+D. Diagonal of a regtangle
+P. Perimeter of a rectangle
+OI! PICK A LETUR YA FILTHY GIT! (A, D, P): d
+The height of your rectangle is...5
+and width...5
+The diagonal of this is 7.071068
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): r
+A. Area of a rectangle
+D. Diagonal of a regtangle
+P. Perimeter of a rectangle
+OI! PICK A LETUR YA FILTHY GIT! (A, D, P): p
+The height of your rectangle is...9
+and width...10
+The perimeter is 38
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): t
+A. Area of a triangle
+P. Perimeter of a triangle
+Remove burger. (A, P): a
+The height of your triangle is...3
+and base...4
+The area isis 6.000000
+bash-4.2$ ./lab2.c
+Welcome to math hell!
+ Pick a level of torment:
+C. Circles
+P. regular Polygons
+R. Rectangles
+T. Triangles
+The choice is yooouurrrrrrrrrrrrrrs! (C, P, R, T): t
+A. Area of a triangle
+P. Perimeter of a triangle
+Remove burger. (A, P): p
+The height of your triangle is...9
+and base...8
+The perimeter is 29.041595
+bash-4.2$ exit
+exit
+
+Script done on Tue 04 Feb 2014 04:44:51 PM MST

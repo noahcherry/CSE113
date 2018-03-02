@@ -1,0 +1,8 @@
+Script started on Mon 09 Mar 2015 09:31:48 PM MDT
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab5noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab5$ gcc smallest.c
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab5noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab5$ ./a.out
+232792560
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab5noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab5$ exit
+exit
+
+Script done on Mon 09 Mar 2015 09:31:58 PM MDT

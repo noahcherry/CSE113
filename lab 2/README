@@ -1,0 +1,15 @@
+Noah Cherry
+2014-09-03
+Lab 2
+Tuesday Lab Section
+
+Purpose: To further improve our lab1 programs by allowing for more user-control with fgets(), switch and if-else blocks.
+
+Conclusions: 
+    a) What I learned:
+     Switch statements are bomb as heck.if else blocks are cool too for more complex logic checks.
+    b) Issies and how I fixed them:
+     I forgot to compile with the -lm flag. I compiled with the -lm flag to fix the problem.
+    c) Imporvements that can be made
+     
+     

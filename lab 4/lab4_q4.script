@@ -1,0 +1,13 @@
+Script started on Mon 02 Mar 2015 09:11:00 PM MST
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ gcc lab4_q4.c
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ ./a.out
+Enter the integer corresponding to the month
+or 20 to quit
+7
+Enter the integer corresponding to the date
+26
+July 26, Leo
+]0;noah@noah-HP-Mini-110-1000: ~/Documents/CSE113/sp2015/lab4noah@noah-HP-Mini-110-1000:~/Documents/CSE113/sp2015/lab4$ exit
+exit
+
+Script done on Mon 02 Mar 2015 09:11:23 PM MST

@@ -1,0 +1,27 @@
+Noah Cherry
+2014
+Lab 10
+
+Purpose:
+    learning how to manipulate doubly linked lists.
+
+Conclusions
+    a) What I learned form this lab:
+        how to code while crying.
+        how adding a simple idea complicates previously simple code.
+        how a tracking structure can be both helpful and a hinderance.
+        that one sould be sure to work in that same directory as one is compiling in
+        
+    b)Issues and how I fixed them:    
+        wouldn't compile. was working in the wrong directory.
+        
+
+    c)Improvements to be made
+        an error element in the cpu_t struct would be nice.
+        I am missing a free(). no idea what it is.
+
+        
+
+Compairasons
+        doubly linked lists are quicker to navigate and much more convinent if you only intend to change the end bits.
+        they are also twice as expensive, memory wise, as singly linked lists though this doesnt matter to us too much right now.

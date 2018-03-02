@@ -1,0 +1,69 @@
+Pseudo Code:
+    Less than:
+        //counts the number of elements in an array
+        // that are less than x
+        //A[1...N], an array with N elements
+        count = 0
+        for i = 1 to N
+            if A[i] < x
+                count = count + 1
+
+    Less than or equal to:
+        //counts the number of elements in an array
+        // that are less than or equal to x
+        //A[1...N], an array with N elements
+        count = 0
+        for i = 1 to N
+            if A[i] <= x
+                count = count + 1
+
+    Greater than to:
+        //counts the number of elements in an array
+        // that are greater than or equal to x
+        //A[1...N], an array with N elements
+        count = 0
+        for i = 1 to N
+            if A[i] > x
+                count = count + 1
+
+    Greater than or equal to:
+        //counts the number of elements in an array
+        // that are greater than x
+        //A[1...N], an array with N elements
+        count = 0
+        for i = 1 to N
+            if A[i] >= x
+                count = count + 1
+
+    Reverse an array:
+        //swaps items in an array to reverse it
+        //
+        //A[1...N], an array with N elements
+        for i = 1 to N/2
+            tmp = A[i]
+            A[i] = A[N - (i - 1)]
+            A[N - (i - 1)] = tmp
+            
+    Count number of evens:
+        //adds 1 to count for every even element in
+        //A[1...N], an array with N elements
+        count = 0
+        for i = 1 to N
+            if A[i] mod 2 == 0
+                count = count + 1
+
+    Count number of odds:
+        //adds 1 to count for every odd element in
+        // A[1...N], an array with N elements
+        count = 0
+        for i = 1 to N
+            if A[i] mod 2 == 1
+                count = count + 1
+        
+    Count of numbers in an array divisible by x:
+        //adds 1 to count for every element divisible by given number, x
+        //A[1...N], an array with N elements
+        count = 0
+        for i = 1 to N
+            if A[i] mod x == 0
+                count = count + 1

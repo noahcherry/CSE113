@@ -1,0 +1,51 @@
+Noah Cherry
+2015
+Lab 5
+
+PURPOSE:
+    zombie: to learn about using structures and arrays together with sscanf mostly.
+
+
+PSEUDO CODE:
+get_time:
+    //gets day and time for zombie encounter
+    str t
+    fgets(t, 10, stdin)
+    sscanf(t,"%d:%d:%d", hour, min, sec)
+
+    str t
+    fgets(t, 10, stdin)
+    sscanf(t,"%d", day)
+    
+
+get_toes:
+    //get toes element for structure
+    str t
+    fgets(t, 10, stdin)
+    sscanf(t,"%d", toes)
+
+
+get_blood:
+    //get blood element for structure
+    str t
+    fgets(t, 10, stdin)
+    sscanf(t,"%d", blood)
+
+
+print_data:
+    //prints all stored data from structure element
+    print(log[encounter].dead)
+    if dead == yes
+        print(log[encounter].toes)
+    else
+        print(log[encounter].blood)
+    print(log[encounter].day, log[encounter].hour, log[encounter].min, log[encounter].sec)
+
+CONCLUSIONS:
+    a)what i learned
+        structures can be used with arrays to store data in a sort of data-ception
+
+    b)what to fix / bugs and how i fixed
+        print_data() isn't gramatically correct if there is only one toe.
+        print_data() used to incorperate the count variable from main() but that 
+                caused problems printing all the data once it cycled back to log[0] 
